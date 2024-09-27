@@ -1,0 +1,17 @@
+.body{
+    background-color:#1A4341 ;
+}
+
+.parent{
+    white-space: nowrap;
+}
+
+.circle{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    background-color: #F3AC3C;
+}
+.circle h1{
+    color: #F3AC3C;
+}
